@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\controllers",
+    "\\models",
+    "\\routes",
+    "\\template",
+    "\\template\\departments",
+    "\\template\\layouts",
+    "\\template\\subjects"
   ],
-  "SelectedNode": "\\server.js",
+  "SelectedNode": "\\template\\subjects\\create.handlebars",
   "PreviewInSolutionExplorer": false
 }
